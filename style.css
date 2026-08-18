@@ -34,7 +34,7 @@ h1 {
     color: #333;
 }
 
-/* Input Section */
+
 
 .input-section {
     display: flex;
@@ -75,7 +75,7 @@ h1 {
     background: #5568d9;
 }
 
-/* Filters */
+
 
 .filters {
     display: flex;
@@ -106,13 +106,12 @@ h1 {
     color: white;
 }
 
-/* Task List */
+
 
 #taskList {
     list-style: none;
 }
 
-/* Individual Task */
 
 .task {
     display: flex;
@@ -129,7 +128,7 @@ h1 {
     border-radius: 8px;
 }
 
-/* Checkbox */
+
 
 .task-checkbox {
     width: 18px;
@@ -138,7 +137,7 @@ h1 {
     cursor: pointer;
 }
 
-/* Task Text */
+
 
 .task-text {
     flex: 1;
@@ -152,7 +151,7 @@ h1 {
     color: #999;
 }
 
-/* Buttons */
+
 
 .edit-btn,
 .delete-btn {
@@ -195,7 +194,7 @@ h1 {
     font-size: 14px;
 }
 
-/* Empty Message */
+
 
 .empty-message {
     text-align: center;
